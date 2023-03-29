@@ -1,3 +1,5 @@
+![Alt text](jetsunnalgonda-background.jpg?raw=true "Haluk Background")
+
 # Hi there, I'm Haluk 👋
 
 I'm a research scientist and a software developer interested in building web and mobile applications using modern technologies. My primary areas of expertise are Javascript, React, Next.js, and iOS development. I'm always eager to learn new things and keep up with the latest trends in the tech industry.
